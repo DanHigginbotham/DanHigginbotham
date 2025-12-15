@@ -30,13 +30,13 @@ Currently working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> 
   </a> 
 </p>
-
+<!--
 <div align="center">
 <a href="https://github.com/higgy710/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danhigginbotham&theme=react&show_icons=true&line_height=20&count_private=true&include_all_commits=true" />
 </a>
 </div>
-
+-->
 <h3 align=center>Advent of Code 2022:
   <p>
     
